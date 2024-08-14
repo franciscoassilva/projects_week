@@ -2,9 +2,9 @@
   align="center"
 >
   <img
-    alt=""
-    src=""
-    width=""
+    alt="Logo Repository Project"
+    src="https://github.com/franciscoassilva/projects_week/blob/main/laptop.png"
+    width="120em"
   /><br/>
   Projects Week
 </h1>
