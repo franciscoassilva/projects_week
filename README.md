@@ -1,13 +1,18 @@
 <h1
   align="center"
 >
+  <img
+    alt=""
+    src=""
+    width=""
+  /><br/>
   Projects Week
 </h1>
 
 <p
   align="center"
 >
-  Projetos desenvolvidos semanalmente para aprimorar minhas habilidades. Um espaço para explorar ideias e aprender novas habilidades na prática. Todos os projetos são oportunidades para experimentar diferentes abordagens e compartilhar conhecimento adquirido.
+  Weekly projects developed to hone my skills. A space to explore ideas and learn new skills in practice. All projects are opportunities to try out different approaches and share acquired knowledge.
 </p>
 
 ## First Week
